@@ -50,9 +50,14 @@ npx hardhat compile
 # Usage Guide
 
 ## Deploying Contracts
+
 To deploy the SmartWalletProxy contract, run:
+```
 npx hardhat run scripts/deploy.js --network [network-name]
+```
+
 contract deployment address will be displayed
+
 plase that address in the app.js, where the contract address is required.
 
 ```
