@@ -36,10 +36,11 @@ npm install
 ```
 
 3. Set up environment variables by creating a `.env` file in the root directory with the following contents:
-
+```
 ALCHEMY_API_KEY=xxxxxxxxxxxxxxx
 PRIVATE_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 POLYGONSCAN_API_KEY=xxxxxxxxxxxxxxxxxxxxxx
+```
 
 
 ## Compiling Contracts
